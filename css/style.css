@@ -156,6 +156,11 @@ main .sertifikat .serti-info .si-timestamp i {
         gap: 1rem;
     }
 
+    /* HEADER */
+    header {
+        padding: 2rem 1rem;
+    }
+
     /* MAIN */
     main {
         display: grid;
